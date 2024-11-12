@@ -65,7 +65,7 @@ export default function Home() {
 
       <div className="text-black border-b border-gray-500/30 py-4 mx-4 sm:mx-20">
         <h1 className="text-2xl text-left font-bold mb-6 text-black">Conclusion</h1>
-        <p className="text-justify">As I continue my journey in AI and robotics, I invite you—students, professionals, businesses, and policymakers—to explore the possibilities these technologies hold for Pakistan. Together, we can create a future where Pakistan is not only a consumer of advanced technologies but a pioneer in the field. Let&rsquo;s build a future where our work impacts not just the present, but generations to come.</p>
+        <p className="text-justify">As I continue my journey in AI and robotics, I invite you, students, professionals, businesses, and policymakers, to explore the possibilities these technologies hold for Pakistan. Together, we can create a future where Pakistan is not only a consumer of advanced technologies but a pioneer in the field. Let&rsquo;s build a future where our work impacts not just the present, but generations to come.</p>
       </div>
 
       <div className="text-black border-b border-gray-500/30 py-4 mx-4 sm:mx-20">
